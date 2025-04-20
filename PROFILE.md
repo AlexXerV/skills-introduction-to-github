@@ -1,3 +1,3 @@
 Welcome to my GitHub profile!
 
-This is my second try practicins on GitHub
+This is my second try practicing on GitHub
